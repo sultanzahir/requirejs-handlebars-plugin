@@ -1,0 +1,12 @@
+{
+  "name": "requirejs-handlebars-plugin",
+  "homepage": "https://github.com/mundizzle/requirejs-handlebars-plugin",
+  "_release": "be01c7bcf5",
+  "_resolution": {
+    "type": "commit",
+    "commit": "be01c7bcf5fb892aa4fb269ceca6108d993a99e7"
+  },
+  "_source": "https://github.com/mundizzle/requirejs-handlebars-plugin.git",
+  "_target": "be01c7bcf5fb892aa4fb269ceca6108d993a99e7",
+  "_originalSource": "https://github.com/mundizzle/requirejs-handlebars-plugin.git"
+}
